@@ -1,6 +1,6 @@
 # y
 
-> ueditor web project
+> ueditor web project   百度编辑器前端部分
 
 ## Build Setup
 
